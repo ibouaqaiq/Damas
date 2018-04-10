@@ -71,6 +71,7 @@ public class MyGdxGame extends ApplicationAdapter {
 		}
 	}
 
+
 	void updateBalls(){
 		for(Ball ball : balls) {
 
